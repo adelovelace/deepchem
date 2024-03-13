@@ -4,7 +4,7 @@ Installation
 Stable version
 --------------
 
-Install deepchem via pip or conda by simply running,
+Install DeepChem via pip or conda by simply running,
 
 .. code-block:: bash
 
@@ -20,13 +20,13 @@ Nightly build version
 ---------------------
 The nightly version is built by the HEAD of DeepChem.
 
-For using general utilites like Molnet, Featurisers, Datasets, etc, then, you install deepchem via pip.  
+For using general utilites like Molnet, Featurisers, Datasets, etc, then, you install DeepChem via pip.  
 
 .. code-block:: bash
 
     pip install --pre deepchem
 
-Deepchem provides support for tensorflow, pytorch, jax and each require
+DeepChem provides support for tensorflow, pytorch, jax and each require
 a individual pip Installation.
 
 For using models with tensorflow dependencies, you install using
@@ -172,7 +172,7 @@ From source with conda
 - Conda: >4.6
 
 
-First, please clone the deepchem repository from GitHub.
+First, please clone the DeepChem repository from GitHub.
 
 .. code-block:: bash
 
